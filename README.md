@@ -129,7 +129,7 @@ Cite the paper as:
   journal = {Preprint},
   year    = {2026},
   doi     = {https://doi.org/10.13140/RG.2.2.13830.13124},
-  url     = {https://github.com/Samuelson777/Brain-Transplantation/edit/main/README.md}
+  url     = {https://github.com/Samuelson777/Brain-Transplantation/}
 }
 ```
 
