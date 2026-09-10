@@ -51,13 +51,13 @@ Compares the number and complexity of biological interfaces involved in:
 - whole-brain allotransplantation; and
 - whole-body or cephalosomatic transplantation.
 
-![Conceptual interface burden](Fig%201.png)
+![Conceptual interface burden](Fig1.png)
 
 ### Figure 2 — Evidence-to-Translation Maturity Ladder
 
 Shows the gap between demonstrated tissue-preservation research and the much higher requirements for integrated human transplantation.
 
-![Evidence-to-translation maturity ladder](Fig%202.png)
+![Evidence-to-translation maturity ladder](fig%202.png)
 
 ### Figure 3 — Responsible Component-Research Roadmap
 
@@ -141,7 +141,7 @@ gsamuelsonguna@gmail.com
 
 ## License
 
-An open-access option for this repository is the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+An open-access license for this repository is the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
 Under CC BY 4.0, others may share and adapt the work, provided they give appropriate credit.
 
